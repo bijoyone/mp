@@ -1,2 +1,3 @@
 # Python, Django
-form, reg, auth, database, admin, user management, template, model
+
+models, views, templates, forms, project structure, queries, admin, reg, auth, database, user management and so on.
